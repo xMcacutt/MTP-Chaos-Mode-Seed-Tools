@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ksYsQtkOZzxKWp1kp52Z/aJkKUsDqh6I5CPad009qtlZMBVcFXjQ6w3vbV1Qjp5vfCWRFyHCHutiDDdTKHj7Lw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\RiderProjects\\CHMSeedFinder\\CLMSeedFinder\\CLMSeedFinder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\scottplot\\5.0.37\\scottplot.5.0.37.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\skiasharp\\2.88.8\\skiasharp.2.88.8.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\skiasharp.nativeassets.linux.nodependencies\\2.88.8\\skiasharp.nativeassets.linux.nodependencies.2.88.8.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.8\\skiasharp.nativeassets.macos.2.88.8.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.8\\skiasharp.nativeassets.win32.2.88.8.nupkg.sha512"
+  ],
+  "logs": []
+}

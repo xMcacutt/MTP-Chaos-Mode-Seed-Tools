@@ -1,0 +1,17 @@
+C:\Users\admin\RiderProjects\CHMSeedFinder\CLMSeedFinder\bin\Release\net7.0\CLMSeedFinder.exe
+C:\Users\admin\RiderProjects\CHMSeedFinder\CLMSeedFinder\bin\Release\net7.0\CLMSeedFinder.deps.json
+C:\Users\admin\RiderProjects\CHMSeedFinder\CLMSeedFinder\bin\Release\net7.0\CLMSeedFinder.runtimeconfig.json
+C:\Users\admin\RiderProjects\CHMSeedFinder\CLMSeedFinder\bin\Release\net7.0\CLMSeedFinder.dll
+C:\Users\admin\RiderProjects\CHMSeedFinder\CLMSeedFinder\bin\Release\net7.0\CLMSeedFinder.pdb
+C:\Users\admin\RiderProjects\CHMSeedFinder\CLMSeedFinder\bin\Release\net7.0\Newtonsoft.Json.dll
+C:\Users\admin\RiderProjects\CHMSeedFinder\CLMSeedFinder\obj\Release\net7.0\CLMSeedFinder.csproj.AssemblyReference.cache
+C:\Users\admin\RiderProjects\CHMSeedFinder\CLMSeedFinder\obj\Release\net7.0\CLMSeedFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\RiderProjects\CHMSeedFinder\CLMSeedFinder\obj\Release\net7.0\CLMSeedFinder.AssemblyInfoInputs.cache
+C:\Users\admin\RiderProjects\CHMSeedFinder\CLMSeedFinder\obj\Release\net7.0\CLMSeedFinder.AssemblyInfo.cs
+C:\Users\admin\RiderProjects\CHMSeedFinder\CLMSeedFinder\obj\Release\net7.0\CLMSeedFinder.csproj.CoreCompileInputs.cache
+C:\Users\admin\RiderProjects\CHMSeedFinder\CLMSeedFinder\obj\Release\net7.0\CLMSeedFinder.csproj.CopyComplete
+C:\Users\admin\RiderProjects\CHMSeedFinder\CLMSeedFinder\obj\Release\net7.0\CLMSeedFinder.dll
+C:\Users\admin\RiderProjects\CHMSeedFinder\CLMSeedFinder\obj\Release\net7.0\refint\CLMSeedFinder.dll
+C:\Users\admin\RiderProjects\CHMSeedFinder\CLMSeedFinder\obj\Release\net7.0\CLMSeedFinder.pdb
+C:\Users\admin\RiderProjects\CHMSeedFinder\CLMSeedFinder\obj\Release\net7.0\CLMSeedFinder.genruntimeconfig.cache
+C:\Users\admin\RiderProjects\CHMSeedFinder\CLMSeedFinder\obj\Release\net7.0\ref\CLMSeedFinder.dll
